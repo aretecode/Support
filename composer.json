@@ -1,5 +1,5 @@
 {
-    "name": "aretecode/support",
+    "name": "arete/support",
     "type": "library",
     "version": "0.1.4",
     "description": "Useful utilities when dealing with arrays, strings, and matching.",
