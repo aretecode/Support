@@ -1,5 +1,8 @@
 # Arete\Support
 [![Author](http://img.shields.io/badge/author-@aretecode-blue.svg)](https://twitter.com/aretecode)
+[![Latest Unstable Version](https://poser.pugx.org/arete/support/v/unstable)](https://poser.pugx.org/arete/support/v/unstable)
+[![License](https://poser.pugx.org/arete/support/license)](http://packagist.org/packages/arete/support)
+
 Useful tools for dealing with arrays, strings, and matching. Extends some Laravel\Support. 
 
 # Example
