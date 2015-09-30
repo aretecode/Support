@@ -1,0 +1,35 @@
+{
+    "name": "aretecode/support",
+    "type": "library",
+    "version": "0.1.4",
+    "description": "Useful utilities when dealing with arrays, strings, and matching.",
+    "keywords": ["support", "string", "array", "arete"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AreteCode",
+            "email": "aretecode@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "dev-master"
+    },       
+    "require-dev": {        
+        "phpunit/phpunit": "5.1.*",
+        "symfony/var-dumper": "3.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arete\\Support\\": ["src/", "tests/"]
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },   
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.4-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}
