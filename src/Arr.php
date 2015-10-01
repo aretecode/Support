@@ -255,7 +255,7 @@ class Arr extends IlluminatedArray {
      * @param  array  $array
      * @return array
      */
-    public static function removeElementsFromArrayAfterIndex($removeAfterThisIndex, $array, $removeTheIndexPassedIn = false) : array {
+    public static function removeElementsFromArrayAfterIndex($removeAfterThisIndex, $array, $removeTheIndexPassedIn = false) {
         // Find the position of the key you're looking for.
         $position = array_search($removeAfterThisIndex, array_keys($array));
 

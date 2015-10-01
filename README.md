@@ -7,8 +7,8 @@
 Useful tools for dealing with arrays, strings, and matching. Extends some Laravel\Support. 
 
 [Illuminate\Support\Arr](http://laravel.com/api/5.0/Illuminate/Support/Arr.html)
-[Illuminate\Support\Str](http://laravel.com/api/5.0/Illuminate/Support/Str.html)
 
+[Illuminate\Support\Str](http://laravel.com/api/5.0/Illuminate/Support/Str.html)
 
 # Example
 See [tests/] folder for examples.
