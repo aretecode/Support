@@ -15,7 +15,7 @@ See [tests/] folder for examples.
 More will be added later.
 
 ## Installation
-It can be installed from [Packagist](https://packagist.org/planck-id) using [Composer](https://getcomposer.org/). 
+It can be installed from [Packagist](https://packagist.org/arete/support) using [Composer](https://getcomposer.org/). 
 
 In your project root just run:
 
@@ -29,4 +29,4 @@ Make sure that you’ve set up your project to [autoload Composer-installed pack
 ## Running tests
 Run via the command line by going to `arete/support` directory and running `phpunit`
 
-## [Todos](https://github.com/aretecode/planck-id/blob/master/TODO.md)
+## [Todos](https://github.com/aretecode/Support/blob/master/TODO.md)
