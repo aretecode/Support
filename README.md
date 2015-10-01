@@ -3,7 +3,7 @@
 [![Author](http://img.shields.io/badge/author-@aretecode-blue.svg)](https://twitter.com/aretecode)
 [![Latest Unstable Version](https://poser.pugx.org/arete/support/v/unstable)](https://poser.pugx.org/arete/support/v/unstable)
 [![License](https://poser.pugx.org/arete/support/license)](http://packagist.org/packages/arete/support)
-[![Codacy Badge](https://api.codacy.com/project/badge/84190ca7bcd646229ec39dbff18bb0b)](http://www.codacy.com/app/aretecode/Support)
+[![Codacy Badge](https://api.codacy.com/project/badge/84190ca7bcd6462292ec39dbff18bb0b)](https://www.codacy.com/app/aretecode/Support)
 
 Useful tools for dealing with arrays, strings, and matching. Extends some Laravel\Support. 
 
